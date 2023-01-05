@@ -1,6 +1,6 @@
 ### Oii, me chamo Evynne Avelino 👋
 
-- 🌱 Atualmente estudo práticas DevOps
+- 🌱 Atualmente estudo desenvolvimento Web
 - 📫 Contate-me: evynneengdev@gmail.com
 
 <div align="center">
